@@ -23,7 +23,7 @@ public class Battery {
 	}
 	
 	public String toString() {
-		return capacity+" "+a;
+		return capacity+"VALUES"+a;
 	}
 	
 
